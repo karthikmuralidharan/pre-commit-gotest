@@ -1,0 +1,5 @@
+- id: gotest
+  name: Go Test
+  description: Runs tests against Go code including race condition checks. Ignores the vendor folder in project root.
+  entry: gotest.sh
+  language: script
